@@ -1,5 +1,5 @@
-#include<iostream>
-#include<algorithm>
+#include <iostream>
+#include <algorithm>
 
 using namespace std;
  
@@ -17,7 +17,7 @@ int check(int x)
  
 int main()
 {
-	int t, n;
+    int t, n;
     cin >> t;
     while (t--) {
         cin >> n;
