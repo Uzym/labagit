@@ -4,7 +4,7 @@
 using namespace std;
  
 const int  N = 1e5 + 10;
- 
+
 int check(int x)
 {
     for (int i = 2; i < x; i ++) {
